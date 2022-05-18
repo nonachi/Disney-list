@@ -1,5 +1,8 @@
 # Disney list
-Final project for python
+Эта программа поможет вам сориентироватьсяв фильмах от компании Walt Disney
 
-This program will help you navigate the films from the company Walt Disney.
-Disney list was created using Google Colaboratory
+Способ управления - консоль
+
+Проект выполнен с использованием Google Colaboratory
+
+На данный момент проект содержит в себе информацию о фильмах до 2022 года
